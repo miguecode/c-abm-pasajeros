@@ -138,7 +138,7 @@ int main()
 		controller_saveAsText("data.csv", listaPasajeros);
 	}
 
-	printf("Fin del programa\n\n");
+	printf("¡Gracias por usar ABM Pasajeros!\n\n");
 
 	Passenger_delete(listaPasajeros);
 
