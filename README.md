@@ -42,3 +42,8 @@ Para ejecutar este proyecto, hay que seguir estos pasos:
 - En este caso, se trabaja con 3 archivos que necesitan estar dentro de la carpeta 'src': "data.bin", "data.csv" y "ultimaID.txt".
 - Fue creado en 2022, mientras cursaba la carrera de Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional.
 - No se aceptan contribuciones ni está bajo ninguna licencia específica.
+
+## 🗃️ Otros proyectos similares
+- [ABM de Notebooks - Aplicación de consola en C](https://github.com/Leumig/C-ABM-Notebooks)
+- [Carga Películas - Aplicación de consola en C](https://github.com/Leumig/C-Carga-Peliculas)
+- [Calcular Costos - Aplicación de consola en C](https://github.com/Leumig/C-Calcular-Costos)
