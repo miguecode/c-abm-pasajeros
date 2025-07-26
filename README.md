@@ -10,7 +10,7 @@ ABM Pasajeros es una aplicación de consola que permite gestionar pasajeros medi
 
 Así se ve la pantalla principal al iniciar el programa.
 
-<img src="https://github.com/user-attachments/assets/4c25fe68-a97a-45e0-a66d-5e87423c1270" width="450"/>
+<img src="https://github.com/user-attachments/assets/4c25fe68-a97a-45e0-a66d-5e87423c1270" width="455"/>
 
 ## 🛠️ Funcionalidades
 
